@@ -73,6 +73,7 @@ h2 {
     top: 10px; /* Distance from the top */
     left: 10px; /* Distance from the left */
     margin: 0; /* Remove default margin */
+    padding-left: 0;
 }
 
 h3 {
